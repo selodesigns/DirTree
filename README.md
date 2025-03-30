@@ -8,7 +8,7 @@ The `dirtree` command allows you to quickly generate a text file containing the 
 
 ## Installation
 
-1. Download the `install_dirtree.bat` script
+1. Download the `capture_directory.bat` script
 2. Right-click the script and select "Run as administrator"
 3. The installation script will:
    - Create a `Scripts` folder in your user profile directory
